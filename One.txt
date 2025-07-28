@@ -1,0 +1,17 @@
+    This is the first file.
+        7C76-DA05
+    git status 
+    git inint
+    git add <filena,=me>
+    git commit -m "comment" 
+    git branch -M main    // Renames the branch name to 'main' 
+
+    git remote -v
+
+    git remote add orgin SSH link 
+
+    origin is the name here it could be batman as well
+
+    
+    Added extra text to push to github 
+    
